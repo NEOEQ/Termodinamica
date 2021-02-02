@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Seja bem vindo à página do curso de Termodinâmica Aplicada
 
 You can use the [editor on GitHub](https://github.com/NEOEQ/Termodinamica/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
