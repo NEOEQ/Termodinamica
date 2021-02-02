@@ -2,7 +2,7 @@
 
 O objetivo deste site é armazenar códigos em python e scilab da disciplina Termodinâmica Aplicada do Departamento de Engenharia Química e de Petróleo da UFF (Universidade Federal Fluminense). No site é disponibilizado um breve tutorial sobre python, jupyter e scilab. Os exercícios são separados nos seguintes tópicos: (a) Introdução à Termodinâmica, (b) Primeira Lei da Termodinâmica, (c) Propriedades Volumétricas dos Fluidos Puros, (d) Termoquímica, (e) Segunda Lei da Termodinâmica, (f) Propriedades Residuais, (g) Termodinâmica de Processos de Escoamento.
 
-### Conteúdo [https://github.com/NEOEQ/Termodinamica/edit/main/inicio.ipynb]
+### Conteúdo (https://github.com/NEOEQ/Termodinamica/edit/main/inicio.ipynb)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
