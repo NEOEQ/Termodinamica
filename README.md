@@ -1,6 +1,6 @@
-## Seja bem vindo à página do curso de Termodinâmica Aplicada
+## Seja bem vindo à página do curso de Termodinâmica Aplicada (Aplicações Computacionais)
 
-O objetivo deste site é armazenar códigos em python da disciplina Termodinâmica Aplicada do Departamento de Engenharia Química e de Petróleo da UFF (Universidade Federal Fluminense).
+O objetivo deste site é armazenar códigos em python e scilab da disciplina Termodinâmica Aplicada do Departamento de Engenharia Química e de Petróleo da UFF (Universidade Federal Fluminense). No site é disponibilizado um breve tutorial sobre python, jupyter e scilab. Os exercícios são separados nos seguintes tópicos: (i) Introdução à Termodinâmica, (ii) Primeira Lei da Termodinâmica, (iii) Propriedades Volumétricas dos Fluidos Puros, (iv) Termoquímica, (v) Segunda Lei da Termodinâmica, (vi) Propriedades Residuais, (vii) Termodinâmica de Processos de Escoamento. 
 
 ### Markdown
 
