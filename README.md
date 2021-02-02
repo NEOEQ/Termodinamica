@@ -1,8 +1,6 @@
 ## Seja bem vindo à página do curso de Termodinâmica Aplicada
 
-You can use the [editor on GitHub](https://github.com/NEOEQ/Termodinamica/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O objetivo deste site é armazenar códigos em python da disciplina Termodinâmica Aplicada do Departamento de Engenharia Química e de Petróleo da UFF (Universidade Federal Fluminense).
 
 ### Markdown
 
