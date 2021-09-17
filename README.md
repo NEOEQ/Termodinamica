@@ -1,7 +1,7 @@
 ## Seja bem vindo à página do curso de Termodinâmica Aplicada (Aplicações Computacionais)
 
 O objetivo deste site é disponibilizar os recursos computacionais da disciplina de Termodinâmica Aplicada do Departamento de Engenharia Química e de Petróleo da UFF (Universidade Federal Fluminense). No site é disponibilizado um breve tutorial sobre python, jupyter e scilab, julia e octave. Os códigos são separados em tópicos, de acordo com os temas mostrados no **Conteúdo**, disponibilizado no tópico seguinte. Veja também o meu canal no youtube 
-[CodeLine#py](https://nbviewer.jupyter.org/github/NEOEQ/Termodinamica/blob/main/inicio.ipynb).
+[CodeLine#py](https://neoeq.github.io/Termodinamica/).
 
 ## [Conteúdo](https://nbviewer.jupyter.org/github/NEOEQ/Termodinamica/blob/doc/Cópia_de_Gravity_Drained_Tank.ipynb)
 
