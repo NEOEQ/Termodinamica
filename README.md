@@ -3,7 +3,7 @@
 O objetivo deste site é disponibilizar os recursos computacionais da disciplina de Termodinâmica Aplicada do Departamento de Engenharia Química e de Petróleo da UFF (Universidade Federal Fluminense). No site é disponibilizado um breve tutorial sobre python, jupyter e scilab, julia e octave. Os códigos são separados em tópicos, de acordo com os temas mostrados no **Conteúdo**, disponibilizado no tópico seguinte. Veja também o meu canal no youtube 
 [CodeLine#py](https://neoeq.github.io/Termodinamica/).
 
-## [Conteúdo](https://nbviewer.jupyter.org/github/NEOEQ/Termodinamica/blob/doc/Cópia_de_Gravity_Drained_Tank.ipynb)
+## [Conteúdo](https://nbviewer.jupyter.org/github/NEOEQ/Termodinamica/blob/main/Cópia_de_Gravity_Drained_Tank.ipynb)
 
 ### Capítulo 1 - Introdução e Conceitos Básicos #
 #### 1.1 [Introdução e Conceitos Básicos](https://nbviewer.jupyter.org/github/NEOEQ/Termodinamica/blob/main/inicio.ipynb) ####
