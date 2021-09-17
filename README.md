@@ -5,8 +5,12 @@ O objetivo deste site é disponibilizar os recursos computacionais da disciplina
 
 ## [Conteúdo](https://nbviewer.jupyter.org/github/NEOEQ/Termodinamica/blob/main/inicio.ipynb)
 
-### Capítulo 1 - Primeira Lei da Termodinâmica #
-Chapter 1.0 Getting Started
+### Capítulo 1 - Introdução e Conceitos Básicos #
+1.1 Introdução e Conceitos Básicos
+1.2 Enegria Interna
+1.3 Entalpia
+1.4 Capacidade Calorífica
+1.5 Processos 
 1.1 Getting Started with Python and Jupyter Notebooks
 1.2 Python Basics
 1.3 Python Conditionals and Libraries
