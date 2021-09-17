@@ -6,7 +6,7 @@ O objetivo deste site é disponibilizar os recursos computacionais da disciplina
 ## [Conteúdo](https://nbviewer.jupyter.org/github/NEOEQ/Termodinamica/blob/main/Cópia_de_Gravity_Drained_Tank.ipynb)
 
 ### Capítulo 1 - Introdução e Conceitos Básicos #
-#### 1.1 [Introdução e Conceitos Básicos](/blob/main/docs/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html) ####
+#### 1.1 [Introdução e Conceitos Básicos]( https://nbviewer.jupyter.org/github/NEOEQ/Termodinamica/blob/main/docs/01.01-Getting-Started-with-Python-and-Jupyter-Notebooks.html) ####
 1.2 Enegria Interna
 1.3 Entalpia
 1.4 Capacidade Calorífica
